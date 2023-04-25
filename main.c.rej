@@ -1,0 +1,10 @@
+--- main.c
++++ main.c
+@@ -3,6 +3,7 @@
+ int main(){
+ 
+ 	printf("Hello ESPL\n");
++	printf("This is a new message");
+ 	return 0;
+ 
+ }
