@@ -1,3 +1,0 @@
-/home/stefan/Documents/School/TUM/ss23/ESPL/git-tutorial/build/CMakeFiles/rebuild_cache.dir
-/home/stefan/Documents/School/TUM/ss23/ESPL/git-tutorial/build/CMakeFiles/edit_cache.dir
-/home/stefan/Documents/School/TUM/ss23/ESPL/git-tutorial/build/CMakeFiles/foo.dir
